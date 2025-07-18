@@ -1,0 +1,10 @@
+Name: María García, Email: maria.garcia@empresa.com, Age: 32, Salary: 42000
+Name: Carlos Martínez, Email: carlos.martinez@empresa.com, Age: 28, Salary: 38000
+Name: Laura Rodríguez, Email: laura.rodriguez@empresa.com, Age: 35, Salary: 45000
+Name: Javier Fernández, Email: javier.fernandez@empresa.com, Age: 41, Salary: 52000
+Name: Ana López, Email: ana.lopez@empresa.com, Age: 27, Salary: 36000
+Name: David Sánchez, Email: david.sanchez@empresa.com, Age: 38, Salary: 48000
+Name: Sofía Pérez, Email: sofia.perez@empresa.com, Age: 31, Salary: 41000
+Name: Daniel Gómez, Email: daniel.gomez@empresa.com, Age: 45, Salary: 55000
+Name: Elena Martín, Email: elena.martin@empresa.com, Age: 29, Salary: 19000 (Intern)
+Name: Pablo Jiménez, Email: pablo.jimenez@empresa.com, Age: 22, Salary: 18000 (Intern)
